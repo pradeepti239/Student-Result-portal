@@ -1,0 +1,43 @@
+@import "../css/styles_main.css";
+
+.mid-background{
+    width: 79% ;
+    background: #F3F3F3;
+    border-radius: 38px;
+    border: 0;
+    padding: 0.2%; 
+}
+
+.card-heading{
+    padding: 2% 2.5%;
+    font-size:1.25vw;
+    font-weight: normal;
+}
+
+.card-table{
+    width: 90%;
+    margin-left: 4.5%;
+}
+
+.table-content{
+    background-color: #FFFFFF;
+    height : 100%;
+    width: 95%;
+    font-size:1.25vw;
+}
+
+.mid-background th,.mid-background td {
+    padding: 2%;
+}
+
+.warning-text{
+    margin-left:-0.25%;
+    margin-top: -0.5%; 
+    line-height: 250% ; 
+    width: 100.5% ; 
+    background-color: #ffffff; 
+    text-align:center; 
+    color: #FF0000; 
+    font-size: 1vw;
+}
+

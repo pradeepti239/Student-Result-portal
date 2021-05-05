@@ -1,0 +1,26 @@
+@import "../css/styles_main.css";
+
+.table-striped > tbody > tr:nth-child(2n+1) > td{
+    background-color:#BFDBFE;
+ }
+
+ .table-striped > thead > tr > th{
+    background-color:#D9E7F9;
+}
+
+ .table-striped > tbody > tr:nth-child(2n) > td, .table-striped > thead > tr:nth-child(2n) > th {
+    background-color:#D9E7F9;
+ }
+
+.table th{
+   border:none;
+}
+
+ .table td, .table th {
+   border-right: 2px solid #ffffff;
+   font-size: 1vw;
+ } 
+
+
+
+
